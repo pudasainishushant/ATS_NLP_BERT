@@ -1,0 +1,790 @@
+SHUSHANTA PUDASAINI
+shushanta574@gmail.com
+Kathmandu, Nepal
++9779843698538
+http://shushantapudasaini.com.np/
+https://scholar.google.com/citations?user=mBvpJ0MAAAAJ&hl=en&oi=ao
+https://medium.com/@shushanta574https://github.com/pudasainishushant
+https://www.linkedin.com/in/shushantap/https://huggingface.co/Shushant
+EDUCATION
+Institute of Engineering, Pulchowk (IOE)
+Masters in Data Science and Analytics
+Lalitpur, Nepal
+May 2021– Present
+Grade: 88%(till now)
+Advanced College of Engineering and Management (ACEM)
+Lalitpur, Nepal
+Grade: 70%
+Bachelors in Computer Engineering
+Oct 2014- Oct 2018
+Dissertation: Time Series Forecasting of Nepal Stock Exchange(NEPSE) data using RNNS and LSTMS
+Supervisor: Prof Dr. Subarna Shakya
+Awarded the best thesis in class
+- Grade (135 out of 150)
+WORK EXPERIENCE
+Industry Experience
+NLP Consultant, FeatherWebs Pvt Ltd
+● Leading NLP team to develop an NLP powered job portal
+● Collecting business requirements, organizing meetings, guiding team
+ML Engineer Level II, Fusemachines Pvt Ltd
+●
+●
+●
+●
+●
+●
+●
+Aug 2019 –Feb 2021
+Developed a web application using Django to build a smart face attendance system using the face API
+provided by Microsoft Azure CNTK
+Data Analyst, Datalytics Pvt Ltd
+●
+Jul 2021 –Dec 2021
+Worked in MINA framework for leveraging computer vision based solutions like object detection, object
+tracking, face recognition for robotics projects in NIC
+Supervised AI team of NIC for developing AI solutions to be used in robotics projects
+AI Consultant, IT Sutra
+●
+Apr 2018 - Dec 2021
+Developed several chatbots for banking organizations and government projects.
+Worked on resume parsing and ranking projects for job portal sites.
+Built in-house attendance system using face recognition saving time for employees to check in and check
+out in the office(currently in production using raspberry pi and real sense camera)
+Worked in data science-based solutions for government websites
+Lead NLP team to develop NLP solutions from collecting requirements to fixing issues in production
+Guide junior developers on code standards, provide training and interview candidates
+AI Supervisor, National Innovation Center (NIC)
+●
+Jan 2022 - Present
+Worked on Squadery platform for automated document parsing and scoring that eliminated 60% of
+manual work saving time and resources. Demo link (https://squadery.com/ )
+Working on a bioinformatics research project WINKS as Project Lead to model the changes in
+microbiome profile with dietary interventions
+Conduct code review meeting, guide junior developers, interview candidates
+NLP Team Lead, Infodevelopers Pvt Ltd
+●
+●
+●
+Sep 2022 - Present
+Oct 2018 - Apr 2018
+Developed a web application using Django to build a smart face attendance system using the face API
+provided by Microsoft Azure CNTK
+Teaching Experience
+AI Lecturer, Herald College
+●
+Jun 2019 - Dec 2019
+Taught AI to Bachelor of Information Technology (BIT) students and supervised their final year projects.Teaching Assistant, Fusemachines Pvt Ltd
+●
+Taught students Machine Learning in AI Fellowship program(https://www.fuse.ai/ai-fellowship/ )
+Visiting Lecturer, Nepathya College
+●
+Jan 2021 - Oct 2021
+Aug 2021 - Nov 2021
+Taught an AI course to BsCSIT students and supervised their final year projects.
+PUBLICATIONS
+●
+●
+https://link.springer.com/chapter/10.1007/978-981-16-2126-0_54
+https://link.springer.com/chapter/10.1007/978-981-16-2126-0_55
+PROJECTS
+Online Police Clearance Registration System (OPCRS) (https://opcr.nepalpolice.gov.np/#/login )
+❖ AI Component: Profanity Detection in Forms
+Objective: Detect profane textual input entered by users in the clearance form
+Approach: Used Bi-LSTM for binary text classification in custom data
+Result: Obtained F-score of 0.97 and model used in production
+Tools used: Keras, Flask, Docker, NLTK
+❖ AI Component: Profile photo validation
+Objective: Validate if the photo uploaded contains a face or not, check the alignment
+Approach: Used pre-trained face detection models and basic image processing
+Result: Reduced 50% of manual work
+Tools used: OpenCV, Flask, Docker
+VYCCU chatbot (http://www.vyccu.org.np/ )
+Objective:: Develop a retrieval-based chatbot to handle queries of visitors to the website
+Approach: Used RASA framework for chatbot development
+Result: Increased visitors engagement on the website by 60%
+Tools used: RASA, Docker, Git, Nginx
+Infodevelopers Inhouse Face Attendance System
+Objective: Develop an inhouse face attendance system for Infodevelopers Pvt Ltd so that employees
+check in check out records would be automated from CCTV cameras installed
+Approach: Used DNN for face detection and trained custom Facenet model on face data of
+employees, used Jetson Nano to host the models and synchronized with HR portal
+Result: The system is currently in production and also performs surveillance of employees
+Tools used: OpenCV, Facenet, Tensorflow, Scikit-learn, FastAPI
+Dolphwin (https://dolphwin.com/#/login )
+❖ NLP Component: Document Identification
+Objective: Identify the type of document uploaded in the portal (resume, jobs, and others)
+Approach: Trained a TFIDF, SVC model building custom data for text classification
+Result: Obtained F-score of 0.91 on text classification
+❖ NLP Component: Resume Parser
+Objective: Automatically parse structured information from resume uploaded
+Approach: Trained custom NER model on labeled data of 450 resumes and finetuned custom
+segmentation model on zero-shot DistilBERT model
+Result: 0.87 F-score of NER model and saved 90% of work for recruiters
+Tools used: StanfordNLP, Spacy, Regex, Flask, Mongo
+❖ NLP Component: User Profile and Job Match Scoring
+Objective: Evaluate score for appropriate job seekers for jobs posted by recruiters and appropriate jobs
+for user profiles developed by job seekers
+Approach: Trained custom Word2Vec model on job corpus and used it for obtaining text similarity
+Results: Saved 80% of manual work for recruiters and job seekers
+Tools used: Gensim, Flask, Python
+❖ NLP Component: Matchmaking of job seekers and recruiters
+Objective: Develop an algorithm to make the best matches for recruiters and job seekers
+Approach: Used Gale Shapely Algorithm
+Result: Automated recommendation and matchmaking in the job portal
+MINA Robot (https://github.com/pudasainishushant/MINA )
+❖ CV component: Face RecognitionObjective: Recognize faces previously encountered by the robot.
+Approach: Used Azure CNTK FaceApi
+Result: Able to recognize persons within National Innovation Center
+❖ CV component: Object Detection
+Objective: Detect objects used in hotels and restaurants
+Approach: Used pre-trained Mobilenet SSD model in Edge TPU and Jetson Nano
+Result: Able to detect objects with a poor result
+RapiMoney (https://app.rapimoney.com/#/public/login )
+❖ NLP Component: Chatbot
+Objective: chatbot should be able to raise tickets, and provide user’s financial details
+Approach: Used RASA framework for chatbot development
+Result: Automated 90% of the work in portal through chatbot
+Tools used: Rasa, FastAPI, Docker
+❖ CV component; User Validation
+Objective: Check whether the user is authenticate or not though face detection, liveness detection
+Result: Automated the user validation process completely
+Tools used: OpenCV, FastAPI, Docker
+NepaliNLP (https://github.com/pudasainishushant/everest-nlp )
+Objective: Develop transformer based NLP solutions for Devanagari Language
+Approach: Trained custom Masked Language Model on Nepali corpus and finetuned other model on the
+masked language model
+(https://huggingface.co/Shushant/nepaliBERT?text=The+goal+of+life+is+%5BMASK%5D. )
+Result: Can use this library (https://pypi.org/project/nepali-embedding/ ) for Nepali NLU.
+Tools Used: Transformers, Gensim, Spacy, NLTK
+Medical Information Extraction
+Objective: Extract important information from medical research papers in PubMed
+Approach: Finetuned Pubmed-bert-base-uncased language model on custom Question Answering
+dataset
+Result: Can use the for vital information extraction from research papers
+WINKS (ongoing)
+Objective: Modelling of microbiome changes with respect to dietary intervention
+Approach: Developed a custom dataset extracting tabular and graph data from related research papers
+Result: Developed a model able to classify whether given microbiome change is due to inulin or dietary
+fibers or GOS or FOS
+SKILLS
+LanguagesC, R, Python
+Operating SystemsWindows, Linux
+ML/ DL ToolsKeras (TensorFlow), PyTorch, Scikit-learn, Matplotlib,
+Numpy, Pandas, PySpark, Streamlit
+CV ToolsYolo, OpenCV, MediaPipe, OpenVino
+NLP ToolsNLTK, Spacy, Gensim, CoreNLP, LSTM, BERT,
+Transformers, OpenNLP,StanfordNLP
+VisualizationMatplotlib, Plotly, Tableau
+Development ToolsSublime, Android Studio, PyCharm, VSCode
+MLOpsStreamlit, Docker, AWS Lambda, EMR, EC2, ECR, S3,
+SQS, Jenkins, DVC, ONNX, Azure CNTK, Weights and
+Biases
+DatabasesSQL/NoSQL
+Version ControlGit (GitHub, GitLab, Bitbucket)
+Web ToolsDjango, Flask, FastApiOTHER SKILLS
+●
+●
+●
+●
+Very Good Analytical and Logical Skills
+Creating and maintaining Source Code in an Efficient Manner
+Excellent Interpersonal and Decision-making ability
+Preparation of documents and reports - Feasibility, SRS, SDS
+COURSES
+●
+●
+●
+●
+●
+Introduction to Deep Learning with OpenCV - Lynda.com
+Building RESTful APIs with Flask - Lynda.com
+NLP with Python for Machine Learning Essential Training - Lynda.com
+Natural Language Processing in TensorFlow - Coursera
+Python Data Structures: Stacks, Queues, and Deques - Lynda.com
+REFERENCES
+Prajwol Dangol
+Dr. Rakesh Katuwal
+Sandesh Pandey
+Mahip Raj KC
+Pankaj Shrestha
+Shirshak Niraula
+Ananta Pandey
+CEO, Featherwebs Pvt Ltd
+Manager of AI, Fusemachines Pvt Ltd
+Project Manager, Infodevelopers Pvt Ltd
+HOD, Electronics, National Innovation Center (NIC)
+CEO, ITSutra
+COO, Datalytics
+Vice Principal, Nepathya College
++9779851225563
++9779828934097
++14693494433
++9779810307452
++15072794480
++9779801818041
++9779857012847
+Sunil Ghimire
++977 9841070311 | sunilghimire.com.np | info@sunilghimire.com.np | linkedin/ghimiresunil | github/ghimiresunil
+PROFILE
+●
+●
+●
+●
+●
+Driven and self-motivated, and therefore effective at completing tasks with minimal supervision
+Strong drive with excellent interpersonal, communication, and team-building skills
+Motivated to learn, grow and excel in Artificial Intelligence, Data Science, SEO, and Digital Marketing
+Passionate about building models that fix problems. Relevant skills include machine learning,
+problem-solving, programming, and creative thinking
+Seeking a company to apply my knowledge of Coding, Artificial Intelligence, Data Science, Digital
+Forensics, and Troubleshooting
+CAREER OBJECTIVES
+To obtain a position in life to utilize my technical skills, experience and abilities and archive professional growth
+while being innovative, flexible, and resourceful. Willingness to learn in making the esteemed organizations
+successful.
+EDUCATION
+Herald College Kathmandu (Affiliated to University of Wolverhampton, UK)
+B.Sc. (Hons.) Computer Science
+Kathmandu, Nepal
+Dec 2017 – July 2020
+Relevant Coursework: Data Structure, Complex System, High-Performance Computing, Introduction to Machine
+Learning, Machine Learning with Large Datasets, Big Data and Data Science
+Dissertation: Credit Card Fraud Detection (CCFD) using various machine learning techniques
+Supervisor: Mr. Sachin Kafle (Founder of CSAMIN & Bit4Stack Tech Inc.)
+WORK EXPERIENCE
+Machine Learning Engineer Associate, Fusemachines
+1. Fractured Atlas
+●
+Aug 2021 - Present
+Description
+The system automatically classifies the incoming tickets into one of the groups present in
+Zendesk based on the subject and subject of the inquiry(email/API/web). And the system
+suggests multiple macros based on their probability which are further classified into
+auto-suggestion(inquiries that will require manual intervention) and auto-response(inquiries
+that can be sent without manual intervention). The system also suggests multiple Frequently
+Asked Questions(FAQs) which are more similar to the inquiries. And the system also suggests a
+link to previous tickets where a similar inquiry was handled in case previous approaches don’t
+seem good.
+○ Worked under the supervision of Mr. Prayas Shrestha (Technical Lead)
+○ Worked on Email Automation system where for email classification SVM and Xgboost
+model were implemented and RTE models were implemented for macros suggestion.
+2. Fuse Letter
+●
+Description
+Community to improve the overall brand presence of Fusemachines in Nepal and also to create
+awareness among non-tech and the general public about AI
+○ Working under the supervision of Mr. Shashanka Prajapati (Sr. ML Engineer Level II)
+○ Worked on content creation for Monthly Newsletter about "The Art of Programming",
+"Tech Trivia", "Tech Quiz", "This Month in Tech", "Most-known Tools", "Machine
+Learning Series" with the motive to AI Support Community.3. Outreach
+●
+Description
+A community to develop AI talent by providing training and education related to AI and Machine
+Learning via physical and virtual mediums
+○ Worked as an active member in group of 25 people for creating relevant content,
+project, and speaker for 3 different workshops on AI Education & Training on 3
+three different educational institutions by both physically and virtually
+4. Squadery
+●
+Description
+Squadery is a one-of-a-kind talent platform that matches people with top AI companies in need
+of qualified engineers
+○ Working under the supervision of Dr. Rakesh Kumar Katuwal (Sr. Manager of AI
+Development)
+○ Working on end-to-end parsing and scoring pipeline that focuses on the development
+and deployment of NLP based services for job portals. Also enhancing DevOps skills
+Docker and AWS.
+Graduate Teaching Assistant, Herald College Kathmandu
+●
+●
+●
+●
+●
+Worked under the supervision of Mr. Jnaneshwar Bohara (Computer Engineer at Government of Nepal),
+Mr. Prakash Gautam (Module Leader and academic head in the Department of Computing), and Mr.
+Sachin Kafle (Founder of CSAMIN & Bit4Stack Tech Inc. [[Author, Teacher]])
+Participate in the assessment process by invigilating exams
+Help develop, update and gather teaching material to support the development of the course curriculum
+Take on limited administrative responsibilities as requested by the Head of Department
+Provide in-person or email support to assist with student inquiries during the exam period
+Founder & Content Writer- Graspcoding and Tech Tutor
+●
+●
+Jan 2021 - Aug 2021
+Jul 2021 –Present
+Manage a blog named graspcoding.com where I provide the latest code of Python and Artificial
+Intelligence along with quizzes and have led to over 30,000 traffic in a month
+Revamped a business page on Instagram named @_tech_tutor that has led to over 5000+ followers (up
+by 20% in 2 months) and where I get a number of queries regarding jobs, professional education,
+technology, internet, and projects regarding artificial intelligence on my email and other social
+networking platforms, where I with utmost interest shares my perspective.
+PUBLICATION
+●
+●
+Ultimate Guide to Python Basics [Published on 23rd May 2020, Amazon Kindle Edition]
+Implementation of Machine Learning Algorithm From Scratch [Under Review]
+PROJECTS
+1. Real World Data Science Project
+●
+Description
+I have showcased my practical skills because theory skills are not what help me until I do not
+have any particular practical skills. So, the best way to showcase my practical skills is by solving
+real-life challenges and real-world use cases. So, I have come up with real-world challenges of
+Machine Learning, Time-series Analysis, and Natural Language Processing in a much more
+efficient way.
+Project #1 @Predict Price of Airlines Industry: Develop an AI model to predict the Fare of
+Airlines on various Routes
+Project #2 @Predict the strength of a Password: Predict the category of Password whether it is
+Strong, Good, or Weak
+Project #3 @Predict Prices of a Stock: Develop time series forecasting models to predict future
+stock prices.●
+●
+Responsibilities
+○ Learning real data and real-world problems
+○ Dealing with importing messy data, cleaning data, merging and concatenating data,
+grouping and aggregating data, Exploratory Data Analysis through to preparing and
+processing data for Statistics, Machine Learning, NLP & Time Series, and Data
+Presentation
+○ Cross validate the model
+Key Technologies
+○ Language: Python
+○ Library Used: NumPy, Pandas, Matplotlib, Seaborn, Sklearn
+○ Algorithm: Random Forest, Decision Tree, K-Nearest Neighbors, TF-IDF, Logistic
+Regression, Auto Arima
+2. Retrieval Based Chatbot
+●
+●
+●
+Description
+Implementation of Machine Learning and Deep Learning techniques to assist the business terms
+in their interaction by providing accuracy, customization, reliability, and scalability.
+Responsibilities
+○ Perform a task called “Customer Request Analysis” in which the data or information
+provided by the customer and reinforce the meaning or logic behind it
+○ Select the best model that collects and returns the performance with a specific answer
+Key Technologies
+○ Language: Python
+○ Library: Tensorflow, Keras, NLTK, NumPy
+3. Credit Card Fraud Detection
+●
+●
+●
+Description
+The key goals of this research are, firstly to recognize the different forms of fraudulent credit
+cards, and secondly, to explore alternative methods utilized in fraud detection. The sub-aim is to
+evaluate, present, and examine recent results in the identification of credit card fraud.
+Responsibilities
+○ Involved in data processing and cleaning using various libraries like Pandas, NumPy,
+Matplotlib, and Seaborn.
+○ Involved in data investigation and exploratory data analysis
+○ Applied data science techniques, such as statistical modeling, machine learning, and
+artificial intelligence
+○ Achieved 95% oversampling accuracy using Logistic Regression
+○ Achieved 97.5% oversampling accuracy using Random Forest
+○ Achieved 89% oversampling accuracy using Autoencoder
+○ Measured and improved results
+Key Technologies
+○ Language: Python
+○ Library Used: Tensorflow, Keras, NumPy, Pandas, Sklearn, Matplotlib, Seaborn
+○ Algorithm: Logistic Regression, Random Forest Classifier, Autoencoder
+○ Oversampling Technique: SMOTE
+4. Face Recognition & Detection
+●
+●
+Description
+Develop face module consists of various packages such as Face Capture, Face Encoding, Face
+Detection and Face Recognition. The use of the OpenCV library with MediaPipe, Face
+Recognition library and the Streamlit Framework is carried out to accomplish this task.
+Responsibilities
+○ Involved in choosing one or more potential models and algorithms○
+●
+Involved in communicating actionable insight using data, often for a non-technical
+audience
+○ Applied the principles of computer vision, database system, human/computer
+interaction, and numerical analysis
+Key Technologies
+○ Language: Python
+○ Library: Keras, TensorFlow, OpenCV, MediaPipe, NumPy, Face Recognition, Dlib, Cmake
+5. Object Tracker Using Modified YOLO Neural Network
+●
+●
+●
+Description
+The purpose of this project is to develop a model which can automatically detect objects from
+the environment. This project uses a modified YOLO neural network that is trained on a
+complete image in predicting boundaries which predict the fewer false positives in background
+areas
+Responsibilities
+○ Involved in research to get a basic understanding of Convolution Neural Network (CNN),
+TensorFlow Libraries, Stream-lit, and object detection
+○ Involved in explaining the architecture and key concepts of understanding how YOLO
+algorithm works
+○ Gets onto a hands-on implementation of this algorithm right from understanding the
+configuration files to being able to create a user interface to take input images from the
+user and perform object detection on the same
+Key Technologies
+○ Inspired by a project assignment from the course Computer Vision at OpenCV.org
+○ Language: Python
+○ Backend: Keras (Tensorflow Backend)
+○ Library: Computer Vision Library - YOLO
+6. Blood Cancer Detection using CNN
+●
+●
+●
+Description
+The purpose of this project is to develop a system that can automatically detect cancer from
+blood cell images. This system uses a convolution network that inputs blood cell images and
+outputs whether the cell is infected with cancer or not.
+Responsibilities
+○ Worked as an active member in a group of 2 people and contributed to collecting
+training, testing, and validation data sets.
+○ Involved in low level designing and development of the system
+○ Involved in improving healthcare delivery and increasing access to medical imaging
+expertise in parts of the world where access to skilled medical personnel is limited.
+○ Achieved 95% validation accuracy
+Key Technologies
+○ Language: Python
+○ Library: Keras, TensorFlow, OpenCV, NumPy, Sklearn
+○ Algorithm: Image pre-processing, Clustering, Morphological Filtering, Segmentation,
+Feature Selection or Extraction, Classification, and Evaluation
+7. A Computer Vision Based Vehicle Detection & Counting System
+●
+●
+Description
+Proposes a video-based approach based on computer vision technologies for vehicle detection
+and counting
+Responsibilities
+○ Find foreground objects in a sequence of videos using a technique called background
+subtraction technique○
+○
+○
+●
+Several computer vision techniques, including thresholding, hole filling, and adaptive
+morphology operations, are then applied to track moving vehicles more accurately and
+precisely
+With the use of a virtual(simulated) detection zone, vehicle counting, and tracking is
+conducted
+Possible to identify 534 vehicles out of 554 in all six input videos which give an accuracy
+of 96.54%
+Key Technologies
+○ Language: Python
+○ Computer Vision Technique: Background Subtraction Technique, Thresholding, Hole
+Filling, Adaptive Morphology
+○ Library Used: OpenCV
+SKILLS
+LanguagesC, Java, Python
+Operating SystemsWindows, Linux
+ML/ DL ToolsKeras (TensorFlow), PyTorch, scikit-learn, Matplotlib, Numpy, Pandas, PySpark
+CV ToolsYolo, OpenCV, MediaPipe, OpenVino
+NLP ToolsNLTK, Spacy, Gensim, CoreNLP, LSTM, BERT, HuggingFace
+VisualizationMatplotlib, Plotly, Tensorflow Embedding Project
+Development ToolsSublime, Android Studio, PyCharm, VSCode
+MLOpsStreamlit, Docker, AWS Lambda, EMR, EC2, ECR, S3, SQS, Jenkins
+DatabasesSQL/NoSQL
+Version ControlGit (GitHub, GitLab, Bitbucket)
+Web ToolsDjango, Flask
+OTHER SKILLS
+●
+●
+●
+●
+Very Good Analytical and Logical Skills
+Creating and maintaining Source Code in an Efficient Manner
+Excellent in Interpersonal and Decision-making ability
+Preparation of documents and reports - Feasibility, SRS, SDS
+COURSES
+●
+●
+●
+●
+●
+Machine Learning, Andrew Ng - YouTube Series
+Applied Data Science with Python - Coursera
+Linear Algebra by Gilbert Strang - MIT Lecture Series, Ongoing
+Machine Learning & Data Science A-Z – Udemy
+Master Python with NumPy For Data Science & Machine Learning – UdemyPERSONAL VITAE
+NameSunil Ghimire
+Data of Birth7th Dec, 1998
+HobbiesProgramming, Data Science, Teaching, Blogging, Literature, Music, Reading
+Research Papers, Travelling, Content Writing, Digital Marketing
+Languages KnownNepali (Native or Bilingual Proficiency)
+Hindi (Limited Working Proficiency)
+English (Full Professional Proficiency)
+StrengthEffective Presentation, Positive Attitude, Smart Working, Crisis Management
+REFERENCES
+Mr. Jnaneshwar BoharaMr. Prakash GautamMr. Rakesh Kumar Kutuwal
+Computer Engineer
+Government of Nepal
+boharag@gmail.comModule Leader & Academic Head
+Herald College Kathmandu
+info@prakashgautam.com.npHead of AI Department
+Fusemachines Nepal Pvt.Ltd.
+rakesh.katuwal@fusemachines.com
+Sujan
+Budhathoki
+Student & Ba ck end D eveloper
+9865055513SUMMARY
+tsuzanbt@gmail.comDudhpati, BhaktapurBackend Developer having in nite love for technology with 1+ years of
+hands-on experience designing, developing, and implementing applications
+and solutions using a range of technologies and programming languages
+SK ILLSEDUCATION
+HTMLSecondary level education
+CSS
+Medha Secondary School / Bhaktapur / April, 2016 - June, 2021
+Javascript/typescriptHigh School
+Node JSBagiswori Collage / Bhaktapur / June, 2021 - Present
+React js
+PostgreSQL
+MongoDB
+python
+EXPERIEN CE
+Backend Developer
+CliffByte / Kathmandu / July, 2022 - Present
+Docker
+PROJECTS
+LAN GUAGE
+Government-Cms
+NepaliThis is the project where i developed a backend REST Apis for government
+website like https://mohp.gov.np/en in cliffByte .
+EnglishEcommerce Website
+HindiThis Project is quite special for me where i build a full stack microservices
+web application using Node.js and React.js and database as PostgreSQL.
+Social Media API
+I build a social media APIs using Node.js and MongoDB.
+
+Company Profile
+KandaQuantum
+Kanda Quantum is a software development company that specializes in utilizing quantum
+computing technology. Quantum computers process data differently than traditional
+computers, allowing for faster calculations and efficient processing of large amounts of data.
+At Kanda Quantum, we leverage these capabilities to develop new applications and hybrid
+systems that combine quantum and classical computers.
+Specifically, we use quantum algorithms to solve optimization problems, perform quantum
+machine learning, and conduct quantum simulations, among other areas of application.
+Our mission is to popularize and apply quantum computing technology to provide beneficial
+applications for business. To achieve this, we are constantly seeking to recruit engineers and
+researchers who lead technological innovation. At Kanda Quantum, we welcome individuals
+who are interested in quantum computing and are eager to take on new challenges.
+Job Description
+Position : AI/ML Developer
+Duration of the Project: Short term (until Mar. 31 2023)
+This project may be extended after April depending on results.
+If there will be an extension, further discussion will be held in advance.
+We develop an AI/ML model for scoring and automatic replies to comments from product
+fans as part of cutting-edge SNS marketing. The automated replies may use the latest
+technologies such as ChatGPT.
+This project is a Proof of Concept (PoC) whose scope is to validate the hypotheses of AI
+technology and UX through a series of testing and experimentation.
+In the future, there are plans to utilize the models in the development of web applications
+and APIs, and to develop products that perform micro-targeting and individualized
+promotions based on the analyzed data.※This JD is for a project until the end of March, and depending on the progress of the
+project, it may or may not be continued after April.
+# Responsibilities:
+- Perform data analysis and data analysis processing using morphological analysis
+tools (ex. sudachipy, mecab)
+- Work in teams to demonstrate the accuracy and effectiveness of AI/ML models
+- Perform continuous improvement and optimization of models
+- Build and deploy models on AWS or GCP
+Requirement Skills
+[Must]
+-
+-
+-
+-
+-
+-
+Experience in development of machine learning and natural language processing,
+especially in evaluating model performance (cross-validation, f1/ acc/ recall /
+precision).
+At least 3 years of experience in back-end and AI/ML development, especially in the
+use of morphological analysis tools (ex.)
+Experience with Python and related libraries such as scikit-learn, NLTK, TensorFlow,
+etc.
+Experience with either AWS (EC2 or Lambda, S3) or GCP (Cloud Function, GCS)
+Experience in Implementation with virtual container technologies such as Docker
+Experience with collaboration tools such as Git and GitHub
+[Want]
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Experience with SNS data and APIs, especially Twitter
+Experience with SQL and NoSQL databases
+Deep knowledge of statistical methods and data analysis
+Experience with DevOps (Github actions, AWS Code PipeLine, GCP Cloud Build,
+etc.)
+Familiarity with ECR, ECS, EC2, VPC, IAM configuration, ACM
+Experience in publishing servers on public clouds such as AWS or GCP
+Experience with Python and related libraries such as streamlit, nicegui, Fast API
+Master's or PhD in Computer Science or related field.
+Experience with Google ColabratoryDevelopment environment
+【Architecture】
+● Cloud: AWS (GCP will be partially used for verification)
+● Backend: Python
+● Front-end: streamlit, nicegui
+● Others: Google Colabratory, Slack
+● Communication tools: slack, chatwork
+● Code repository: slack
+● UX: figma
+● Project management: (backlog,) spreadsheet or notion
+● Documentation: google drive
+● Meetings: zoom (meetings will be recorded)
+Estimated Monthly Salary
+Monthly Salary :180,000-210,000 yen (Full time)
+Part time will also be available.
+（Salary for part-time to be discussed）
+● Bonus and Allowance
+・ There’s no bonus as this project is short-term;
+・ If the project is extended after April, bonuses are subject to Nepalese law.
+Work location
+●
+Remote or japantown Building in Katmandu
+Selection Process
+document screening -> several interviews -> offerWorking Hours
+●
+●
+●
+●
+Mon-Fri
+Flex working style (Core time: 10:00-15:00 JST Negotiable)
+Prescribed working hours: 8 hours/ day
+Working hours for part time will be discussed
+Holiday
+●
+●
+●
+Saturdays and Sundays
+National holidays based on Nepali calendar
+Condolence leave, etc.
+	Used Test Director and Mercury Quality Center for updating the status of all the Test Cases & Test Scripts that are executed during testing process.
+
+	Used Test Director and Mercury Quality Center for updating the status of all the Test Cases & Test Scripts that are executed during testing process.
+
+	Took part in the team bug review meeting.
+
+	Use of tracking systems to upgrade process and quality control procedures.
+
+	Design and execute manual test scripting and cases.
+
+	Responsible for logging the defects, keeping track of them and verifying the bugs are the fix.
+
+	Bugs are reported using JIRA and ALM
+
+	Involved in re-testing the test cases and closing the defect.
+
+	Participated in peer review with team and developers to review test cases/test scripts.
+
+	Prepared the test documentation using MS Word.
+
+	Participated in Walk through of test plans and test cases.
+
+	Took part in Test Closure Activities and in providing the Test Closure Document to the stakeholders.
+
+
+
+Environment: Manual Testing, Mercury Quality Center 10.0, HP ALM, Windows XP, UNIX, 
+
+Microsoft Tools (Word and Excel).
+
+	 References: Will be provided upon request. 6+  years of Quality Assurance experience to obtain a responsibleÂ QAÂ position in a progressive organization where I can effectively utilize my expertise and qualifications to develop and improve the Quality Assurance aspect of the company.Â 
+
+Experience in Sanity, GUI, Functional, System and Regression Testing.Â 
+
+Well versed with all stages of SDLC and STLC.Â 
+
+Experience in Agile Scrum methodology.Â 
+
+Good exposure in understanding and analyzing Requirements.
+
+Expertise in Testing of Client/Server and Web based applications.
+
+Skilled in bug reporting and tracking using Test Director, HP Quality Center. 
+
+Worked on HIPAA EDI 834, 835, 837, 271/272, 278 use cases and collaboration templates according business requirements inÂ FACETSÂ Claims Process.Â 
+
+Expertise in querying and testing using RDBMS tools like Oracle, MS SQL server, PL/SQL, DB2, and MS Access for Data integrity
+
+Proficient in Manual as well as Automation testing in Windows and UNIX based platforms with experience in shell scripting
+
+Strong in IT research, software analysis and design skills.
+
+Extensive experience in Backend Testing on distributed databases using SQL queries.
+
+Experience in Functional Testing, System Integration Testing, Back End Testing, GUI Testing, configuration Testing, User Acceptance Testing. 
+
+Solid understanding of Membership, Claims Processing, Billing, Benefit/Eligibility, Authorization/Referrals, COB, and have experience in HIPAA standards and corresponding EDI transactions.
+
+Knowledge of Medicaid and Medicare Services.
+
+Familiar with Test Strategy, Test Plan and Traceability Matrices Documents.
+
+Involvement in preparation of Test scenarios, Test cases and executing the same.Â 
+
+ Test results analyzing, sending suggestions and defects.Â 
+
+Good exposure on Bug Life Cycle.Â 
+
+Experience in Quality Center/ HP ALM.Â 
+
+Commitment, result oriented and interested to learn new technologies.
+
+Experience in facilitating meetings with clients to discuss and sign-off on the document.
+
+Conducted User Acceptance Testing (UAT)
+
+Motivated self-starter with exceptional team building, leadership, and interpersonal skills. Good team player with the ability to work in time sensitive environments.
+
+Proficient in working with FACETS, claim-processing systems.
+
+Bilingual. Fluency in speaking and writing Arabic Language on native level.
+
+
+
+
+
+
+
+
+
+TECHNICAL SKILLS:Â 
+
+	Methodologies:			SDLC, RUP, Agile, Waterfall
+
+	Platforms:			Windows, Mainframe
+
+	Testing tools:			Quality Center, ALM
+
+	Change Management Tools:	HP Quality Center/ ALM
+
+	Office Tools:			MS Project, MS Office, MS Visio
+
+	Database:			MS SQL Server, MS Access, DB2, Oracle, 
+
+
+
+Work Experience 
+
+Cognosante, CMS, McLean, VA								        
+
+Jan 2016- Present
+
+QA Analyst
+
+Cognosante provides premier information technology solutions for the many challenges facing today's health organizations. I was working on CMS 1095A reconciliation project of 834 enrollments. As an EDI Analyst, I have to validate and reconcile the data from three different CMS databases MIDAS, FFM and Issuer. 
+
+
+
+Responsibilities:
+
+Closely collaborated with the product owner and business analyst in order to plan testing strategy.
+
+Validated and verified the data against three CMS databases MIDAS, FFM (Federally Facilitated Marketplace) and Issuer Database.
+
+Validate the date from EDI transaction.
+
+Recommend ways and workarounds for HIPAA 5010 (EDI X12 837,834,27
